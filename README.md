@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This package is no longer in-use. Use [`silverstripe/recipe-solr-search`](https://github.com/silverstripe/recipe-solr-search) instead.
+
 ## CWP search recipe
 
 [![Build Status](https://api.travis-ci.com/silverstripe/cwp-recipe-search.svg?branch=2)](https://travis-ci.com/silverstripe/cwp-recipe-search)
