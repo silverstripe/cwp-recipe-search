@@ -13,7 +13,7 @@ env:
 jobs:
   fast_finish: true
   include:
-    - php: 7.1
+    - php: 7.3
       env:
         - DB=MYSQL
         - REQUIRE_INSTALLER="$REQUIRE_RECIPE"
